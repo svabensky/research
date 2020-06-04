@@ -53,6 +53,6 @@ This repository serves as an overview and reference to my work.
 
 | Title | Authors | Type | Venue |
 | ----- | ------- | ---- | ----- |
-| [Gathering Insights from Teenagers' Hacking Experience with Authentic Cybersecurity Tools](https://www.muni.cz/en/research/publications/1423243) | V. Švábenský, J. Vykopal | Conference paper | IEEE FIE |
-| [Enhancing Cybersecurity Skills by Creating Serious Games](https://www.muni.cz/en/research/publications/1413088) | V. Švábenský, J. Vykopal, M. Čermák, M. Laštovička | Conference paper | ACM ITiCSE |
-| [Challenges Arising from Prerequisite Testing in Cybersecurity Games](https://www.muni.cz/en/research/publications/1391680) | V. Švábenský, J. Vykopal | Conference paper | ACM SIGCSE |
+| [Gathering Insights from Teenagers' Hacking Experience with Authentic Cybersecurity Tools](https://www.muni.cz/en/research/publications/1423243) | V. Švábenský, J. Vykopal | Conference paper | [IEEE FIE](https://ieeexplore.ieee.org/document/8658840) |
+| [Enhancing Cybersecurity Skills by Creating Serious Games](https://www.muni.cz/en/research/publications/1413088) | V. Švábenský, J. Vykopal, M. Čermák, M. Laštovička | Conference paper | [ACM ITiCSE](https://dl.acm.org/doi/10.1145/3197091.3197123) |
+| [Challenges Arising from Prerequisite Testing in Cybersecurity Games](https://www.muni.cz/en/research/publications/1391680) | V. Švábenský, J. Vykopal | Conference paper | [ACM SIGCSE](https://dl.acm.org/doi/10.1145/3159450.3159454) |
