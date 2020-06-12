@@ -28,6 +28,7 @@ This repository serves as an overview and reference to my work.
 * 8 papers on CORE-A/B ranked conferences
 * 3 conference posters and presentations
 * 1 software
+* Best paper award: [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://dl.acm.org/doi/10.1145/3328778.3366816)
 
 ## 2020
 
