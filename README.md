@@ -34,7 +34,7 @@ This repository serves as an overview and reference to my work.
 
 | Title | Authors | Type | Venue |
 | ----- | ------- | ---- | ----- |
-| [Teaching Lab: Training Novice Computer Science Teachers](https://www.muni.cz/en/research/publications/1647936) | M. Ukrop, V. Švábenský, I. Nagy | Conference poster | ACM ITiCSE |
+| [Teaching Lab: Training Novice Computer Science Teachers](https://www.muni.cz/en/research/publications/1647936) | M. Ukrop, V. Švábenský, I. Nagy | Conference poster | [ACM ITiCSE](https://dl.acm.org/doi/10.1145/3341525.3393967) |
 | [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://www.muni.cz/en/research/publications/1567598) | V. Švábenský, J. Vykopal, P. Čeleda | Conference paper | [ACM SIGCSE](https://dl.acm.org/doi/10.1145/3328778.3366816) |
 | [KYPO4INDUSTRY: A Testbed for Teaching Cybersecurity of Industrial Control Systems](https://www.muni.cz/en/research/publications/1567484) | P. Čeleda, J. Vykopal, V. Švábenský, K. Slavíček | Conference paper | [ACM SIGCSE](https://dl.acm.org/doi/10.1145/3328778.3366908) |
 | [Benefits and Pitfalls of Using Capture The Flag Games in University Courses](https://www.muni.cz/en/research/publications/1570036) | J. Vykopal, V. Švábenský, E.C. Chang | Conference paper | [ACM SIGCSE](https://dl.acm.org/doi/10.1145/3328778.3366893) |
