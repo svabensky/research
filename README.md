@@ -47,7 +47,7 @@ All works are sorted by recency.
 
 | Title | Authors | Type | Venue |
 | ----- | ------- | ---- | ----- |
-| [Visual Feedback for Players of Multi-Level Capture the Flag Games: Field Usability Study](https://www.muni.cz/en/research/publications/1549817) | R. Ošlejšek, V. Rusňák, K. Burská, V. Švábenský, J. Vykopal | Conference paper | IEEE VizSec |
+| [Visual Feedback for Players of Multi-Level Capture the Flag Games: Field Usability Study](https://www.muni.cz/en/research/publications/1549817) | R. Ošlejšek, V. Rusňák, K. Burská, V. Švábenský, J. Vykopal | Conference paper | [IEEE VizSec](https://ieeexplore.ieee.org/document/9161386) |
 | [Software for simulation of generic and critical information infrastructures](https://www.muni.cz/en/research/publications/1611316) | P. Čeleda et al. | Software | --- |
 | [Reflective Diary for Professional Development of Novice Teachers](https://www.muni.cz/en/research/publications/1483456) | M. Ukrop, V. Švábenský, J. Nehyba | Conference paper | [ACM SIGCSE](https://dl.acm.org/doi/10.1145/3287324.3287448) |
 | [Towards Learning Analytics in Cybersecurity Capture the Flag Games](https://www.muni.cz/en/research/publications/1483457) | V. Švábenský, J. Vykopal, P. Čeleda | Conference poster | [ACM SIGCSE](https://dl.acm.org/doi/abs/10.1145/3287324.3293816) |
