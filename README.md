@@ -17,6 +17,7 @@ This repository serves as an overview and reference to my work.
 * Social networks:
 	* [Researchgate profile](https://www.researchgate.net/profile/Valdemar_Svabensky)
 	* [ORCID profile](https://orcid.org/0000-0001-8546-280X)
+	* [Publons profile](https://publons.com/researcher/3524283/valdemar-svabensky/)
 	* [LinkedIn profile](https://www.linkedin.com/in/valdemarsvabensky/)
 	* [Twitter profile](https://twitter.com/svabenskyv)
 
