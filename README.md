@@ -27,16 +27,17 @@ All works are sorted by recency.
 ## Overview
 
 * 1 paper in an impacted journal
-* 8 papers on CORE-A/B ranked conferences
+* 9 papers on CORE-A/B ranked conferences
 * 3 conference posters and presentations
 * 1 software
-* 27 non-self-citations on Google Scholar, 12 on Scopus
+* 37 non-self-citations on Google Scholar, 12 on Scopus
 * Best paper award: [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://dl.acm.org/doi/10.1145/3328778.3366816)
 
 ## 2020
 
 | Title | Authors | Type | Venue |
 | ----- | ------- | ---- | ----- |
+| [How Does a Student-Centered Course on Communication and Professional Skills Impact Students in the Long Run?](https://www.muni.cz/en/research/publications/1664092) | R. Motschnig, V. Švábenský, M. Silber | Conference paper | [IEEE FIE](https://www.fie2020.org/abstracts-and-papers/) |
 | [Teaching Lab: Training Novice Computer Science Teachers](https://www.muni.cz/en/research/publications/1647936) | M. Ukrop, V. Švábenský, I. Nagy | Conference poster | [ACM ITiCSE](https://dl.acm.org/doi/10.1145/3341525.3393967) |
 | [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://www.muni.cz/en/research/publications/1567598) | V. Švábenský, J. Vykopal, P. Čeleda | Conference paper | [ACM SIGCSE](https://dl.acm.org/doi/10.1145/3328778.3366816) |
 | [KYPO4INDUSTRY: A Testbed for Teaching Cybersecurity of Industrial Control Systems](https://www.muni.cz/en/research/publications/1567484) | P. Čeleda, J. Vykopal, V. Švábenský, K. Slavíček | Conference paper | [ACM SIGCSE](https://dl.acm.org/doi/10.1145/3328778.3366908) |
