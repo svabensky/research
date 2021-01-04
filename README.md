@@ -10,10 +10,11 @@ This repository serves as an overview and reference to my work.
 * [Personal website](https://www.fi.muni.cz/~xsvabens/index-en.html)
 * Scientific databases:
 	* [Google Scholar profile](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)
-	* [ArXiv.org profile](https://arxiv.org/search/cs?searchtype=author&query=%C5%A0v%C3%A1bensk%C3%BD%2C+V)
+	* [ArXiv.org profile](https://arxiv.org/a/svabensky_v_1.html)
 	* [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57215670820)
 	* [ACM Digital Library profile](https://dl.acm.org/profile/99659243770)
 	* [IEEE Xplore profile](https://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22First%20Name%22:%22Valdemar%22&searchWithin=%22Last%20Name%22:%22%C5%A0v%C3%A1bensk%C3%BD%22&newsearch=true&sortType=newest)
+	* [Zenodo profile](https://zenodo.org/search?page=1&size=20&q=%C5%A0v%C3%A1bensk%C3%BD)
 * Social networks:
 	* [Researchgate profile](https://www.researchgate.net/profile/Valdemar_Svabensky)
 	* [ORCID profile](https://orcid.org/0000-0001-8546-280X)
@@ -31,7 +32,7 @@ All works are sorted by recency.
 * 9 papers on CORE-A/B ranked conferences
 * 3 conference posters and presentations
 * 1 software
-* 45 non-self-citations on Google Scholar, 15 on Scopus
+* 45 non-self-citations on Google Scholar, 25 on Scopus
 * Best paper award: [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://dl.acm.org/doi/10.1145/3328778.3366816)
 
 ## 2020
