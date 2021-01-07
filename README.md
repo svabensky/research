@@ -36,8 +36,7 @@ The works are sorted by recency. Quick links to jump below: [2020](#2020), [2019
 
 * 2 papers in an impacted journal
 * 9 papers on CORE-A/B ranked conferences
-* 3 conference posters and presentations
-* 1 software
+* 3 conference posters and abstracts
 * 45 non-self-citations on Google Scholar, 25 on Scopus
 
 ### <a name="2020"></a>2020
