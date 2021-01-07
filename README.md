@@ -2,7 +2,7 @@ I am a cybersecurity education researcher working in the [Cybersecurity laborato
 
 This repository serves as an overview and reference to my work.
 
-## Featured papers 
+## Featured publications 
 
 1. [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://dl.acm.org/doi/10.1145/3328778.3366816)
 2. [Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges](https://www.sciencedirect.com/science/article/pii/S0167404820304272)
@@ -28,9 +28,9 @@ This repository serves as an overview and reference to my work.
 	* [LinkedIn profile](https://www.linkedin.com/in/valdemarsvabensky/)
 	* [Twitter profile](https://twitter.com/svabenskyv)
 
-## Academic publications
+## All academic papers
 
-All works are sorted by recency. Quick links to jump below: [2020](#2020), [2019](#2019), [2018](#2018).
+The works are sorted by recency. Quick links to jump below: [2020](#2020), [2019](#2019), [2018](#2018).
 
 ### Statistics
 
