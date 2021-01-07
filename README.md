@@ -1,6 +1,4 @@
-I am a cybersecurity education researcher working in the [Cybersecurity laboratory](https://kypo.fi.muni.cz/) at Masaryk University, Czech Republic and in the cybersecurity team [CSIRT-MU](https://csirt.muni.cz/?lang=en).
-
-The goal my research is *finding new ways of effective teaching of security professionals*.
+I am a cybersecurity education researcher working in the [Cybersecurity laboratory](https://kypo.fi.muni.cz/) at Masaryk University, Czech Republic and in the cybersecurity team [CSIRT-MU](https://csirt.muni.cz/?lang=en). The goal my research is *finding new ways of effective teaching of security professionals*.
 
 This repository serves as an overview and reference to my work.
 
@@ -24,18 +22,25 @@ This repository serves as an overview and reference to my work.
 
 # Academic publications
 
-All works are sorted by recency.
+All works are sorted by recency. Quick links to jump below: [2020](#2020), [2019](#2019), [2018](#2018).
 
-## Overview
+## Featured papers 
+
+1. [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://dl.acm.org/doi/10.1145/3328778.3366816)
+2. [Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges](https://www.sciencedirect.com/science/article/pii/S0167404820304272)
+3. [Enhancing Cybersecurity Skills by Creating Serious Games](https://dl.acm.org/doi/10.1145/3197091.3197123)
+4. [Reflective Diary for Professional Development of Novice Teachers](https://dl.acm.org/doi/10.1145/3287324.3287448)
+5. [KYPO4INDUSTRY: A Testbed for Teaching Cybersecurity of Industrial Control Systems](https://dl.acm.org/doi/10.1145/3328778.3366908)
+
+## Statistics
 
 * 2 papers in an impacted journal
 * 9 papers on CORE-A/B ranked conferences
 * 3 conference posters and presentations
 * 1 software
 * 45 non-self-citations on Google Scholar, 25 on Scopus
-* Best paper award: [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://dl.acm.org/doi/10.1145/3328778.3366816)
 
-## 2020
+## <a name="2020"></a>2020
 
 | Title | Authors | Type | Venue |
 | ----- | ------- | ---- | ----- |
@@ -47,7 +52,7 @@ All works are sorted by recency.
 | [Benefits and Pitfalls of Using Capture The Flag Games in University Courses](https://www.muni.cz/en/research/publications/1570036) | J. Vykopal, V. Švábenský, E.C. Chang | Conference paper | [ACM SIGCSE](https://dl.acm.org/doi/10.1145/3328778.3366893) |
 | [Conceptual Model of Visual Analytics for Hands-on Cybersecurity Training](https://www.muni.cz/en/research/publications/1628296) | R. Ošlejšek, V. Rusňák, K. Burská, V. Švábenský, J. Vykopal, J. Čegan | Journal paper | [IEEE TVCG](https://ieeexplore.ieee.org/document/9018081) |
 
-## 2019
+## <a name="2019"></a>2019
 
 | Title | Authors | Type | Venue |
 | ----- | ------- | ---- | ----- |
@@ -57,7 +62,7 @@ All works are sorted by recency.
 | [Towards Learning Analytics in Cybersecurity Capture the Flag Games](https://www.muni.cz/en/research/publications/1483457) | V. Švábenský, J. Vykopal, P. Čeleda | Conference poster | [ACM SIGCSE](https://dl.acm.org/doi/abs/10.1145/3287324.3293816) |
 | [Analyzing User Interactions with Cybersecurity Games](https://www.muni.cz/en/research/publications/1483458) | V. Švábenský | Conference competition entry | [ACM SIGCSE](https://dl.acm.org/doi/abs/10.1145/3287324.3293717) |
 
-## 2018
+## <a name="2018"></a>2018
 
 | Title | Authors | Type | Venue |
 | ----- | ------- | ---- | ----- |
