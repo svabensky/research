@@ -30,7 +30,7 @@ This repository serves as an overview and reference to my work.
 
 ## All academic papers
 
-The works are sorted by recency. Quick links to jump below: [2020](#2020), [2019](#2019), [2018](#2018).
+The works are sorted by recency. Quick links to jump below: [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018).
 
 ### Statistics
 
@@ -39,12 +39,19 @@ The works are sorted by recency. Quick links to jump below: [2020](#2020), [2019
 * 3 conference posters and abstracts
 * 45 non-self-citations on Google Scholar, 25 on Scopus
 
+### <a name="2021"></a>2021
+
+| Title | Authors | Type | Venue |
+| ----- | ------- | ---- | ----- |
+| [Toward Guidelines for Designing Cybersecurity Serious Games](https://www.muni.cz/en/research/publications/1701756) | M. Gáliková, V. Švábenský, J. Vykopal | Conference poster | [ACM SIGCSE](https://dl.acm.org/doi/10.1145/3408877.3439568) |
+| [The Stack: Unplugged Activities for Teaching Computer Science](https://www.muni.cz/en/research/publications/1701737) | V. Švábenský, M. Ukrop | Conference poster | [ACM SIGCSE](https://dl.acm.org/doi/10.1145/3408877.3439569) |
+
 ### <a name="2020"></a>2020
 
 | Title | Authors | Type | Venue |
 | ----- | ------- | ---- | ----- |
 | [Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges](https://www.muni.cz/en/research/publications/1715556) | V. Švábenský, P. Čeleda, J. Vykopal, S. Brišáková | Journal paper | [Elsevier Computers & Security](https://www.sciencedirect.com/science/article/pii/S0167404820304272) |
-| [How Does a Student-Centered Course on Communication and Professional Skills Impact Students in the Long Run?](https://www.muni.cz/en/research/publications/1664092) | R. Motschnig, V. Švábenský, M. Silber | Conference paper | [IEEE FIE](https://ieeexplore.ieee.org/document/9273962) |
+| [How Does a Student-Centered Course on Communication and Professional Skills Impact Students in the Long Run?](https://www.muni.cz/en/research/publications/1664092) | R. Motschnig, M. Silber, V. Švábenský | Conference paper | [IEEE FIE](https://ieeexplore.ieee.org/document/9273962) |
 | [Teaching Lab: Training Novice Computer Science Teachers](https://www.muni.cz/en/research/publications/1647936) | M. Ukrop, V. Švábenský, I. Nagy | Conference poster | [ACM ITiCSE](https://dl.acm.org/doi/10.1145/3341525.3393967) |
 | [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://www.muni.cz/en/research/publications/1567598) | V. Švábenský, J. Vykopal, P. Čeleda | Conference paper | [ACM SIGCSE](https://dl.acm.org/doi/10.1145/3328778.3366816) |
 | [KYPO4INDUSTRY: A Testbed for Teaching Cybersecurity of Industrial Control Systems](https://www.muni.cz/en/research/publications/1567484) | P. Čeleda, J. Vykopal, V. Švábenský, K. Slavíček | Conference paper | [ACM SIGCSE](https://dl.acm.org/doi/10.1145/3328778.3366908) |
